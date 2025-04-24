@@ -1,1 +1,2 @@
 first echo command for git
+can i change some thing in this 
